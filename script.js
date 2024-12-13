@@ -3,6 +3,7 @@ function descargarContacto() {
 VERSION:3.0
 FN:Paula Jaramillo
 TEL:+57 3106101009
+EMAIL:ventas@guajiraamano.com
 NOTE: Guajira a Mano
 END:VCARD`;
 
