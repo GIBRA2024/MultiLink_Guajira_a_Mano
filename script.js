@@ -2,7 +2,7 @@ function descargarContacto() {
     const vcardData = `BEGIN:VCARD
 VERSION:3.0
 FN:Paula Jaramillo
-TEL:+57 3106101009
+TEL:+57 3052500042
 EMAIL:ventas@guajiraamano.com
 NOTE: Guajira a Mano
 END:VCARD`;
